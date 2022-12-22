@@ -1,0 +1,3 @@
+var x = "Hello world";
+
+println x * 10;
