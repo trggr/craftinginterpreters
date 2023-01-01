@@ -1,3 +1,4 @@
-#~/usr/bin/bash
+#!/usr/bin/bash
+
 
 java com.craftinginterpreters.lox.Lox
